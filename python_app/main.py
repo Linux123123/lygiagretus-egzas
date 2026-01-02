@@ -25,14 +25,14 @@ from config import STABILITY_ITERATIONS, get_worker_count
 from processes import receiver_process, sender_process, worker_process
 
 
-def parse_args() -> tuple[int, bool]:
+def parse_args() -> int:
     """Parse command line arguments."""
     use_half_cpu = "--half-cpu" in sys.argv
     single_worker = "--single-worker" in sys.argv
 
     if single_worker:
-        return 1, True
-    return get_worker_count(use_half_cpu), False
+        return 1
+    return get_worker_count(use_half_cpu)
 
 
 def main() -> None:
@@ -42,7 +42,7 @@ def main() -> None:
         flush=True
     )
 
-    num_workers, _ = parse_args()
+    num_workers = parse_args()
 
     print(
         f"{Color.BLUE}[Main]{Color.RESET} Workers: {num_workers}, "
