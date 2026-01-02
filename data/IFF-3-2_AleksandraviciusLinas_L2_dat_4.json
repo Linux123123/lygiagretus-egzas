@@ -1,0 +1,1804 @@
+{
+  "servers": [
+    {
+      "id": 1,
+      "location": "Kaunas",
+      "uptime": 2857,
+      "load": 42.83
+    },
+    {
+      "id": 2,
+      "location": "Kaunas",
+      "uptime": 3602,
+      "load": 25.22
+    },
+    {
+      "id": 3,
+      "location": "Vilnius",
+      "uptime": 5108,
+      "load": 15.4
+    },
+    {
+      "id": 4,
+      "location": "Telsiai",
+      "uptime": 9350,
+      "load": 69.29
+    },
+    {
+      "id": 5,
+      "location": "Taurage",
+      "uptime": 5129,
+      "load": 73.61
+    },
+    {
+      "id": 6,
+      "location": "Visaginas",
+      "uptime": 7603,
+      "load": 24.21
+    },
+    {
+      "id": 7,
+      "location": "Siauliai",
+      "uptime": 4849,
+      "load": 36.1
+    },
+    {
+      "id": 8,
+      "location": "Alytus",
+      "uptime": 7507,
+      "load": 72.16
+    },
+    {
+      "id": 9,
+      "location": "Kaunas",
+      "uptime": 8186,
+      "load": 57.79
+    },
+    {
+      "id": 10,
+      "location": "Ukmerge",
+      "uptime": 8473,
+      "load": 18.28
+    },
+    {
+      "id": 11,
+      "location": "Taurage",
+      "uptime": 7423,
+      "load": 40.35
+    },
+    {
+      "id": 12,
+      "location": "Panevezys",
+      "uptime": 8869,
+      "load": 11.41
+    },
+    {
+      "id": 13,
+      "location": "Visaginas",
+      "uptime": 7835,
+      "load": 43.09
+    },
+    {
+      "id": 14,
+      "location": "Kaunas",
+      "uptime": 4191,
+      "load": 44.37
+    },
+    {
+      "id": 15,
+      "location": "Klaipeda",
+      "uptime": 9187,
+      "load": 19.87
+    },
+    {
+      "id": 16,
+      "location": "Ukmerge",
+      "uptime": 9684,
+      "load": 48.26
+    },
+    {
+      "id": 17,
+      "location": "Visaginas",
+      "uptime": 2921,
+      "load": 18.12
+    },
+    {
+      "id": 18,
+      "location": "Kedainiai",
+      "uptime": 1184,
+      "load": 86.6
+    },
+    {
+      "id": 19,
+      "location": "Telsiai",
+      "uptime": 1284,
+      "load": 28.53
+    },
+    {
+      "id": 20,
+      "location": "Jonava",
+      "uptime": 744,
+      "load": 88.49
+    },
+    {
+      "id": 21,
+      "location": "Alytus",
+      "uptime": 7644,
+      "load": 45.91
+    },
+    {
+      "id": 22,
+      "location": "Vilnius",
+      "uptime": 2724,
+      "load": 40.38
+    },
+    {
+      "id": 23,
+      "location": "Alytus",
+      "uptime": 9300,
+      "load": 88.22
+    },
+    {
+      "id": 24,
+      "location": "Telsiai",
+      "uptime": 3857,
+      "load": 40.49
+    },
+    {
+      "id": 25,
+      "location": "Panevezys",
+      "uptime": 5803,
+      "load": 42.89
+    },
+    {
+      "id": 26,
+      "location": "Siauliai",
+      "uptime": 2569,
+      "load": 10.6
+    },
+    {
+      "id": 27,
+      "location": "Taurage",
+      "uptime": 9185,
+      "load": 40.74
+    },
+    {
+      "id": 28,
+      "location": "Utena",
+      "uptime": 6936,
+      "load": 47.78
+    },
+    {
+      "id": 29,
+      "location": "Visaginas",
+      "uptime": 7028,
+      "load": 85.05
+    },
+    {
+      "id": 30,
+      "location": "Marijampole",
+      "uptime": 7258,
+      "load": 57.42
+    },
+    {
+      "id": 31,
+      "location": "Visaginas",
+      "uptime": 6537,
+      "load": 37.68
+    },
+    {
+      "id": 32,
+      "location": "Klaipeda",
+      "uptime": 8479,
+      "load": 44.31
+    },
+    {
+      "id": 33,
+      "location": "Kedainiai",
+      "uptime": 161,
+      "load": 67.06
+    },
+    {
+      "id": 34,
+      "location": "Kaunas",
+      "uptime": 9557,
+      "load": 28.56
+    },
+    {
+      "id": 35,
+      "location": "Mazeikiai",
+      "uptime": 8012,
+      "load": 66.82
+    },
+    {
+      "id": 36,
+      "location": "Visaginas",
+      "uptime": 4995,
+      "load": 23.27
+    },
+    {
+      "id": 37,
+      "location": "Marijampole",
+      "uptime": 7436,
+      "load": 89.44
+    },
+    {
+      "id": 38,
+      "location": "Kedainiai",
+      "uptime": 6341,
+      "load": 55.58
+    },
+    {
+      "id": 39,
+      "location": "Telsiai",
+      "uptime": 5652,
+      "load": 72.67
+    },
+    {
+      "id": 40,
+      "location": "Vilnius",
+      "uptime": 894,
+      "load": 81.67
+    },
+    {
+      "id": 41,
+      "location": "Panevezys",
+      "uptime": 4802,
+      "load": 84.43
+    },
+    {
+      "id": 42,
+      "location": "Marijampole",
+      "uptime": 1297,
+      "load": 13.31
+    },
+    {
+      "id": 43,
+      "location": "Taurage",
+      "uptime": 2366,
+      "load": 54.62
+    },
+    {
+      "id": 44,
+      "location": "Taurage",
+      "uptime": 4115,
+      "load": 20.05
+    },
+    {
+      "id": 45,
+      "location": "Klaipeda",
+      "uptime": 2678,
+      "load": 52.09
+    },
+    {
+      "id": 46,
+      "location": "Jonava",
+      "uptime": 9156,
+      "load": 64.18
+    },
+    {
+      "id": 47,
+      "location": "Visaginas",
+      "uptime": 1319,
+      "load": 59.23
+    },
+    {
+      "id": 48,
+      "location": "Alytus",
+      "uptime": 3312,
+      "load": 75.23
+    },
+    {
+      "id": 49,
+      "location": "Kaunas",
+      "uptime": 1360,
+      "load": 19.86
+    },
+    {
+      "id": 50,
+      "location": "Marijampole",
+      "uptime": 4286,
+      "load": 22.15
+    },
+    {
+      "id": 51,
+      "location": "Siauliai",
+      "uptime": 2563,
+      "load": 80.4
+    },
+    {
+      "id": 52,
+      "location": "Ukmerge",
+      "uptime": 7884,
+      "load": 11.18
+    },
+    {
+      "id": 53,
+      "location": "Telsiai",
+      "uptime": 6268,
+      "load": 50.7
+    },
+    {
+      "id": 54,
+      "location": "Marijampole",
+      "uptime": 6311,
+      "load": 41.18
+    },
+    {
+      "id": 55,
+      "location": "Taurage",
+      "uptime": 5582,
+      "load": 11.05
+    },
+    {
+      "id": 56,
+      "location": "Vilnius",
+      "uptime": 8677,
+      "load": 36.51
+    },
+    {
+      "id": 57,
+      "location": "Jonava",
+      "uptime": 1231,
+      "load": 60.55
+    },
+    {
+      "id": 58,
+      "location": "Mazeikiai",
+      "uptime": 9852,
+      "load": 23.33
+    },
+    {
+      "id": 59,
+      "location": "Marijampole",
+      "uptime": 6008,
+      "load": 60.27
+    },
+    {
+      "id": 60,
+      "location": "Siauliai",
+      "uptime": 5346,
+      "load": 39.49
+    },
+    {
+      "id": 61,
+      "location": "Telsiai",
+      "uptime": 8552,
+      "load": 27.77
+    },
+    {
+      "id": 62,
+      "location": "Alytus",
+      "uptime": 3628,
+      "load": 85.96
+    },
+    {
+      "id": 63,
+      "location": "Ukmerge",
+      "uptime": 6611,
+      "load": 79.53
+    },
+    {
+      "id": 64,
+      "location": "Utena",
+      "uptime": 6681,
+      "load": 15.52
+    },
+    {
+      "id": 65,
+      "location": "Alytus",
+      "uptime": 4655,
+      "load": 71.22
+    },
+    {
+      "id": 66,
+      "location": "Ukmerge",
+      "uptime": 6196,
+      "load": 27.06
+    },
+    {
+      "id": 67,
+      "location": "Siauliai",
+      "uptime": 9678,
+      "load": 74.06
+    },
+    {
+      "id": 68,
+      "location": "Kaunas",
+      "uptime": 4943,
+      "load": 38.56
+    },
+    {
+      "id": 69,
+      "location": "Kaunas",
+      "uptime": 8142,
+      "load": 36.59
+    },
+    {
+      "id": 70,
+      "location": "Ukmerge",
+      "uptime": 689,
+      "load": 19.66
+    },
+    {
+      "id": 71,
+      "location": "Panevezys",
+      "uptime": 282,
+      "load": 27.44
+    },
+    {
+      "id": 72,
+      "location": "Jonava",
+      "uptime": 5602,
+      "load": 54.78
+    },
+    {
+      "id": 73,
+      "location": "Jonava",
+      "uptime": 2829,
+      "load": 26.95
+    },
+    {
+      "id": 74,
+      "location": "Alytus",
+      "uptime": 7689,
+      "load": 84.49
+    },
+    {
+      "id": 75,
+      "location": "Panevezys",
+      "uptime": 2707,
+      "load": 24.96
+    },
+    {
+      "id": 76,
+      "location": "Visaginas",
+      "uptime": 1608,
+      "load": 74.3
+    },
+    {
+      "id": 77,
+      "location": "Jonava",
+      "uptime": 9141,
+      "load": 38.38
+    },
+    {
+      "id": 78,
+      "location": "Klaipeda",
+      "uptime": 9924,
+      "load": 87.54
+    },
+    {
+      "id": 79,
+      "location": "Marijampole",
+      "uptime": 2805,
+      "load": 75.68
+    },
+    {
+      "id": 80,
+      "location": "Kaunas",
+      "uptime": 2381,
+      "load": 12.42
+    },
+    {
+      "id": 81,
+      "location": "Ukmerge",
+      "uptime": 6480,
+      "load": 71.76
+    },
+    {
+      "id": 82,
+      "location": "Taurage",
+      "uptime": 2415,
+      "load": 65.46
+    },
+    {
+      "id": 83,
+      "location": "Siauliai",
+      "uptime": 5648,
+      "load": 43.6
+    },
+    {
+      "id": 84,
+      "location": "Panevezys",
+      "uptime": 3262,
+      "load": 16.76
+    },
+    {
+      "id": 85,
+      "location": "Jonava",
+      "uptime": 9439,
+      "load": 75.24
+    },
+    {
+      "id": 86,
+      "location": "Marijampole",
+      "uptime": 1105,
+      "load": 27.0
+    },
+    {
+      "id": 87,
+      "location": "Alytus",
+      "uptime": 7351,
+      "load": 35.68
+    },
+    {
+      "id": 88,
+      "location": "Mazeikiai",
+      "uptime": 9461,
+      "load": 14.85
+    },
+    {
+      "id": 89,
+      "location": "Kedainiai",
+      "uptime": 749,
+      "load": 86.62
+    },
+    {
+      "id": 90,
+      "location": "Klaipeda",
+      "uptime": 8638,
+      "load": 56.64
+    },
+    {
+      "id": 91,
+      "location": "Ukmerge",
+      "uptime": 8217,
+      "load": 22.11
+    },
+    {
+      "id": 92,
+      "location": "Alytus",
+      "uptime": 3887,
+      "load": 29.87
+    },
+    {
+      "id": 93,
+      "location": "Marijampole",
+      "uptime": 3371,
+      "load": 46.95
+    },
+    {
+      "id": 94,
+      "location": "Siauliai",
+      "uptime": 1430,
+      "load": 24.35
+    },
+    {
+      "id": 95,
+      "location": "Alytus",
+      "uptime": 131,
+      "load": 24.82
+    },
+    {
+      "id": 96,
+      "location": "Kedainiai",
+      "uptime": 5821,
+      "load": 38.83
+    },
+    {
+      "id": 97,
+      "location": "Utena",
+      "uptime": 6016,
+      "load": 38.56
+    },
+    {
+      "id": 98,
+      "location": "Siauliai",
+      "uptime": 7527,
+      "load": 67.62
+    },
+    {
+      "id": 99,
+      "location": "Vilnius",
+      "uptime": 720,
+      "load": 56.68
+    },
+    {
+      "id": 100,
+      "location": "Mazeikiai",
+      "uptime": 1833,
+      "load": 76.1
+    },
+    {
+      "id": 101,
+      "location": "Marijampole",
+      "uptime": 9081,
+      "load": 19.97
+    },
+    {
+      "id": 102,
+      "location": "Jonava",
+      "uptime": 8797,
+      "load": 14.43
+    },
+    {
+      "id": 103,
+      "location": "Taurage",
+      "uptime": 9642,
+      "load": 57.43
+    },
+    {
+      "id": 104,
+      "location": "Taurage",
+      "uptime": 767,
+      "load": 46.26
+    },
+    {
+      "id": 105,
+      "location": "Alytus",
+      "uptime": 2576,
+      "load": 54.91
+    },
+    {
+      "id": 106,
+      "location": "Kedainiai",
+      "uptime": 8572,
+      "load": 45.75
+    },
+    {
+      "id": 107,
+      "location": "Siauliai",
+      "uptime": 4381,
+      "load": 52.76
+    },
+    {
+      "id": 108,
+      "location": "Taurage",
+      "uptime": 2505,
+      "load": 32.81
+    },
+    {
+      "id": 109,
+      "location": "Siauliai",
+      "uptime": 6064,
+      "load": 69.74
+    },
+    {
+      "id": 110,
+      "location": "Utena",
+      "uptime": 7890,
+      "load": 57.06
+    },
+    {
+      "id": 111,
+      "location": "Kaunas",
+      "uptime": 2502,
+      "load": 25.4
+    },
+    {
+      "id": 112,
+      "location": "Marijampole",
+      "uptime": 1276,
+      "load": 21.57
+    },
+    {
+      "id": 113,
+      "location": "Jonava",
+      "uptime": 6650,
+      "load": 44.27
+    },
+    {
+      "id": 114,
+      "location": "Panevezys",
+      "uptime": 4727,
+      "load": 17.87
+    },
+    {
+      "id": 115,
+      "location": "Marijampole",
+      "uptime": 1092,
+      "load": 74.82
+    },
+    {
+      "id": 116,
+      "location": "Klaipeda",
+      "uptime": 9793,
+      "load": 86.77
+    },
+    {
+      "id": 117,
+      "location": "Telsiai",
+      "uptime": 289,
+      "load": 41.83
+    },
+    {
+      "id": 118,
+      "location": "Utena",
+      "uptime": 3145,
+      "load": 85.46
+    },
+    {
+      "id": 119,
+      "location": "Visaginas",
+      "uptime": 8097,
+      "load": 50.87
+    },
+    {
+      "id": 120,
+      "location": "Marijampole",
+      "uptime": 3963,
+      "load": 81.93
+    },
+    {
+      "id": 121,
+      "location": "Alytus",
+      "uptime": 2910,
+      "load": 29.54
+    },
+    {
+      "id": 122,
+      "location": "Visaginas",
+      "uptime": 3253,
+      "load": 39.06
+    },
+    {
+      "id": 123,
+      "location": "Vilnius",
+      "uptime": 2021,
+      "load": 30.67
+    },
+    {
+      "id": 124,
+      "location": "Telsiai",
+      "uptime": 9096,
+      "load": 10.71
+    },
+    {
+      "id": 125,
+      "location": "Siauliai",
+      "uptime": 9083,
+      "load": 32.81
+    },
+    {
+      "id": 126,
+      "location": "Ukmerge",
+      "uptime": 2492,
+      "load": 28.97
+    },
+    {
+      "id": 127,
+      "location": "Klaipeda",
+      "uptime": 7495,
+      "load": 75.01
+    },
+    {
+      "id": 128,
+      "location": "Panevezys",
+      "uptime": 3235,
+      "load": 89.8
+    },
+    {
+      "id": 129,
+      "location": "Vilnius",
+      "uptime": 4434,
+      "load": 60.46
+    },
+    {
+      "id": 130,
+      "location": "Vilnius",
+      "uptime": 370,
+      "load": 45.45
+    },
+    {
+      "id": 131,
+      "location": "Kedainiai",
+      "uptime": 5900,
+      "load": 61.35
+    },
+    {
+      "id": 132,
+      "location": "Utena",
+      "uptime": 9182,
+      "load": 70.48
+    },
+    {
+      "id": 133,
+      "location": "Marijampole",
+      "uptime": 677,
+      "load": 37.02
+    },
+    {
+      "id": 134,
+      "location": "Ukmerge",
+      "uptime": 7100,
+      "load": 33.43
+    },
+    {
+      "id": 135,
+      "location": "Alytus",
+      "uptime": 5985,
+      "load": 59.81
+    },
+    {
+      "id": 136,
+      "location": "Taurage",
+      "uptime": 7886,
+      "load": 80.3
+    },
+    {
+      "id": 137,
+      "location": "Klaipeda",
+      "uptime": 3425,
+      "load": 63.34
+    },
+    {
+      "id": 138,
+      "location": "Taurage",
+      "uptime": 5201,
+      "load": 50.68
+    },
+    {
+      "id": 139,
+      "location": "Siauliai",
+      "uptime": 6416,
+      "load": 25.78
+    },
+    {
+      "id": 140,
+      "location": "Kaunas",
+      "uptime": 5793,
+      "load": 62.66
+    },
+    {
+      "id": 141,
+      "location": "Panevezys",
+      "uptime": 334,
+      "load": 18.61
+    },
+    {
+      "id": 142,
+      "location": "Telsiai",
+      "uptime": 4902,
+      "load": 67.05
+    },
+    {
+      "id": 143,
+      "location": "Kaunas",
+      "uptime": 1704,
+      "load": 60.39
+    },
+    {
+      "id": 144,
+      "location": "Vilnius",
+      "uptime": 7551,
+      "load": 87.34
+    },
+    {
+      "id": 145,
+      "location": "Ukmerge",
+      "uptime": 9950,
+      "load": 72.06
+    },
+    {
+      "id": 146,
+      "location": "Telsiai",
+      "uptime": 1755,
+      "load": 54.71
+    },
+    {
+      "id": 147,
+      "location": "Siauliai",
+      "uptime": 5009,
+      "load": 17.33
+    },
+    {
+      "id": 148,
+      "location": "Visaginas",
+      "uptime": 9849,
+      "load": 87.67
+    },
+    {
+      "id": 149,
+      "location": "Vilnius",
+      "uptime": 5899,
+      "load": 75.4
+    },
+    {
+      "id": 150,
+      "location": "Visaginas",
+      "uptime": 9549,
+      "load": 80.81
+    },
+    {
+      "id": 151,
+      "location": "Siauliai",
+      "uptime": 4020,
+      "load": 35.14
+    },
+    {
+      "id": 152,
+      "location": "Ukmerge",
+      "uptime": 976,
+      "load": 58.28
+    },
+    {
+      "id": 153,
+      "location": "Siauliai",
+      "uptime": 8881,
+      "load": 70.2
+    },
+    {
+      "id": 154,
+      "location": "Mazeikiai",
+      "uptime": 8826,
+      "load": 74.13
+    },
+    {
+      "id": 155,
+      "location": "Klaipeda",
+      "uptime": 652,
+      "load": 51.21
+    },
+    {
+      "id": 156,
+      "location": "Mazeikiai",
+      "uptime": 6474,
+      "load": 47.16
+    },
+    {
+      "id": 157,
+      "location": "Marijampole",
+      "uptime": 2029,
+      "load": 77.7
+    },
+    {
+      "id": 158,
+      "location": "Marijampole",
+      "uptime": 7954,
+      "load": 26.57
+    },
+    {
+      "id": 159,
+      "location": "Alytus",
+      "uptime": 7833,
+      "load": 41.37
+    },
+    {
+      "id": 160,
+      "location": "Mazeikiai",
+      "uptime": 4044,
+      "load": 38.13
+    },
+    {
+      "id": 161,
+      "location": "Taurage",
+      "uptime": 2936,
+      "load": 14.3
+    },
+    {
+      "id": 162,
+      "location": "Vilnius",
+      "uptime": 6044,
+      "load": 20.47
+    },
+    {
+      "id": 163,
+      "location": "Ukmerge",
+      "uptime": 7042,
+      "load": 21.5
+    },
+    {
+      "id": 164,
+      "location": "Marijampole",
+      "uptime": 8531,
+      "load": 48.21
+    },
+    {
+      "id": 165,
+      "location": "Taurage",
+      "uptime": 3572,
+      "load": 43.98
+    },
+    {
+      "id": 166,
+      "location": "Marijampole",
+      "uptime": 8429,
+      "load": 24.67
+    },
+    {
+      "id": 167,
+      "location": "Vilnius",
+      "uptime": 2989,
+      "load": 14.04
+    },
+    {
+      "id": 168,
+      "location": "Telsiai",
+      "uptime": 512,
+      "load": 16.99
+    },
+    {
+      "id": 169,
+      "location": "Panevezys",
+      "uptime": 7908,
+      "load": 50.84
+    },
+    {
+      "id": 170,
+      "location": "Marijampole",
+      "uptime": 8006,
+      "load": 60.52
+    },
+    {
+      "id": 171,
+      "location": "Mazeikiai",
+      "uptime": 9993,
+      "load": 55.78
+    },
+    {
+      "id": 172,
+      "location": "Mazeikiai",
+      "uptime": 3366,
+      "load": 16.56
+    },
+    {
+      "id": 173,
+      "location": "Telsiai",
+      "uptime": 532,
+      "load": 72.43
+    },
+    {
+      "id": 174,
+      "location": "Panevezys",
+      "uptime": 1468,
+      "load": 20.06
+    },
+    {
+      "id": 175,
+      "location": "Siauliai",
+      "uptime": 8380,
+      "load": 70.25
+    },
+    {
+      "id": 176,
+      "location": "Telsiai",
+      "uptime": 8977,
+      "load": 39.62
+    },
+    {
+      "id": 177,
+      "location": "Siauliai",
+      "uptime": 6843,
+      "load": 47.67
+    },
+    {
+      "id": 178,
+      "location": "Visaginas",
+      "uptime": 6140,
+      "load": 55.88
+    },
+    {
+      "id": 179,
+      "location": "Klaipeda",
+      "uptime": 5938,
+      "load": 33.54
+    },
+    {
+      "id": 180,
+      "location": "Jonava",
+      "uptime": 6872,
+      "load": 73.7
+    },
+    {
+      "id": 181,
+      "location": "Telsiai",
+      "uptime": 598,
+      "load": 16.87
+    },
+    {
+      "id": 182,
+      "location": "Vilnius",
+      "uptime": 4543,
+      "load": 72.84
+    },
+    {
+      "id": 183,
+      "location": "Panevezys",
+      "uptime": 2400,
+      "load": 24.21
+    },
+    {
+      "id": 184,
+      "location": "Alytus",
+      "uptime": 3040,
+      "load": 55.25
+    },
+    {
+      "id": 185,
+      "location": "Kedainiai",
+      "uptime": 7158,
+      "load": 61.61
+    },
+    {
+      "id": 186,
+      "location": "Taurage",
+      "uptime": 9949,
+      "load": 20.01
+    },
+    {
+      "id": 187,
+      "location": "Siauliai",
+      "uptime": 9882,
+      "load": 72.72
+    },
+    {
+      "id": 188,
+      "location": "Kaunas",
+      "uptime": 1943,
+      "load": 24.89
+    },
+    {
+      "id": 189,
+      "location": "Panevezys",
+      "uptime": 2880,
+      "load": 41.45
+    },
+    {
+      "id": 190,
+      "location": "Visaginas",
+      "uptime": 7683,
+      "load": 73.73
+    },
+    {
+      "id": 191,
+      "location": "Jonava",
+      "uptime": 5301,
+      "load": 87.73
+    },
+    {
+      "id": 192,
+      "location": "Marijampole",
+      "uptime": 8702,
+      "load": 89.93
+    },
+    {
+      "id": 193,
+      "location": "Vilnius",
+      "uptime": 5636,
+      "load": 89.83
+    },
+    {
+      "id": 194,
+      "location": "Ukmerge",
+      "uptime": 8378,
+      "load": 67.79
+    },
+    {
+      "id": 195,
+      "location": "Jonava",
+      "uptime": 2457,
+      "load": 23.24
+    },
+    {
+      "id": 196,
+      "location": "Ukmerge",
+      "uptime": 4578,
+      "load": 35.51
+    },
+    {
+      "id": 197,
+      "location": "Kedainiai",
+      "uptime": 8568,
+      "load": 17.07
+    },
+    {
+      "id": 198,
+      "location": "Taurage",
+      "uptime": 4770,
+      "load": 83.09
+    },
+    {
+      "id": 199,
+      "location": "Vilnius",
+      "uptime": 2242,
+      "load": 21.63
+    },
+    {
+      "id": 200,
+      "location": "Mazeikiai",
+      "uptime": 1495,
+      "load": 26.05
+    },
+    {
+      "id": 201,
+      "location": "Siauliai",
+      "uptime": 328,
+      "load": 75.1
+    },
+    {
+      "id": 202,
+      "location": "Marijampole",
+      "uptime": 6745,
+      "load": 18.89
+    },
+    {
+      "id": 203,
+      "location": "Visaginas",
+      "uptime": 5894,
+      "load": 86.97
+    },
+    {
+      "id": 204,
+      "location": "Visaginas",
+      "uptime": 1979,
+      "load": 76.19
+    },
+    {
+      "id": 205,
+      "location": "Klaipeda",
+      "uptime": 5804,
+      "load": 72.88
+    },
+    {
+      "id": 206,
+      "location": "Telsiai",
+      "uptime": 5624,
+      "load": 79.6
+    },
+    {
+      "id": 207,
+      "location": "Taurage",
+      "uptime": 5675,
+      "load": 54.63
+    },
+    {
+      "id": 208,
+      "location": "Siauliai",
+      "uptime": 796,
+      "load": 38.39
+    },
+    {
+      "id": 209,
+      "location": "Marijampole",
+      "uptime": 6437,
+      "load": 39.66
+    },
+    {
+      "id": 210,
+      "location": "Visaginas",
+      "uptime": 8546,
+      "load": 77.41
+    },
+    {
+      "id": 211,
+      "location": "Jonava",
+      "uptime": 3312,
+      "load": 72.95
+    },
+    {
+      "id": 212,
+      "location": "Alytus",
+      "uptime": 5662,
+      "load": 80.9
+    },
+    {
+      "id": 213,
+      "location": "Visaginas",
+      "uptime": 2345,
+      "load": 83.25
+    },
+    {
+      "id": 214,
+      "location": "Marijampole",
+      "uptime": 4410,
+      "load": 32.84
+    },
+    {
+      "id": 215,
+      "location": "Jonava",
+      "uptime": 2509,
+      "load": 60.61
+    },
+    {
+      "id": 216,
+      "location": "Kaunas",
+      "uptime": 7656,
+      "load": 14.29
+    },
+    {
+      "id": 217,
+      "location": "Vilnius",
+      "uptime": 2212,
+      "load": 29.66
+    },
+    {
+      "id": 218,
+      "location": "Panevezys",
+      "uptime": 6297,
+      "load": 88.33
+    },
+    {
+      "id": 219,
+      "location": "Panevezys",
+      "uptime": 9123,
+      "load": 46.87
+    },
+    {
+      "id": 220,
+      "location": "Utena",
+      "uptime": 9136,
+      "load": 77.72
+    },
+    {
+      "id": 221,
+      "location": "Visaginas",
+      "uptime": 5147,
+      "load": 32.17
+    },
+    {
+      "id": 222,
+      "location": "Kaunas",
+      "uptime": 5148,
+      "load": 52.45
+    },
+    {
+      "id": 223,
+      "location": "Taurage",
+      "uptime": 4057,
+      "load": 28.35
+    },
+    {
+      "id": 224,
+      "location": "Mazeikiai",
+      "uptime": 4869,
+      "load": 46.52
+    },
+    {
+      "id": 225,
+      "location": "Marijampole",
+      "uptime": 1309,
+      "load": 59.1
+    },
+    {
+      "id": 226,
+      "location": "Ukmerge",
+      "uptime": 3216,
+      "load": 82.9
+    },
+    {
+      "id": 227,
+      "location": "Ukmerge",
+      "uptime": 1228,
+      "load": 88.3
+    },
+    {
+      "id": 228,
+      "location": "Siauliai",
+      "uptime": 7169,
+      "load": 19.17
+    },
+    {
+      "id": 229,
+      "location": "Taurage",
+      "uptime": 5287,
+      "load": 70.69
+    },
+    {
+      "id": 230,
+      "location": "Marijampole",
+      "uptime": 9947,
+      "load": 67.84
+    },
+    {
+      "id": 231,
+      "location": "Mazeikiai",
+      "uptime": 2999,
+      "load": 27.77
+    },
+    {
+      "id": 232,
+      "location": "Alytus",
+      "uptime": 1600,
+      "load": 22.43
+    },
+    {
+      "id": 233,
+      "location": "Kedainiai",
+      "uptime": 2793,
+      "load": 28.03
+    },
+    {
+      "id": 234,
+      "location": "Marijampole",
+      "uptime": 6018,
+      "load": 70.74
+    },
+    {
+      "id": 235,
+      "location": "Utena",
+      "uptime": 9004,
+      "load": 37.16
+    },
+    {
+      "id": 236,
+      "location": "Marijampole",
+      "uptime": 3821,
+      "load": 63.47
+    },
+    {
+      "id": 237,
+      "location": "Marijampole",
+      "uptime": 1827,
+      "load": 30.36
+    },
+    {
+      "id": 238,
+      "location": "Siauliai",
+      "uptime": 7190,
+      "load": 38.74
+    },
+    {
+      "id": 239,
+      "location": "Kaunas",
+      "uptime": 273,
+      "load": 40.8
+    },
+    {
+      "id": 240,
+      "location": "Kaunas",
+      "uptime": 7696,
+      "load": 11.13
+    },
+    {
+      "id": 241,
+      "location": "Vilnius",
+      "uptime": 7940,
+      "load": 83.01
+    },
+    {
+      "id": 242,
+      "location": "Visaginas",
+      "uptime": 7527,
+      "load": 62.15
+    },
+    {
+      "id": 243,
+      "location": "Vilnius",
+      "uptime": 3275,
+      "load": 71.96
+    },
+    {
+      "id": 244,
+      "location": "Kaunas",
+      "uptime": 5477,
+      "load": 84.86
+    },
+    {
+      "id": 245,
+      "location": "Mazeikiai",
+      "uptime": 9688,
+      "load": 51.79
+    },
+    {
+      "id": 246,
+      "location": "Ukmerge",
+      "uptime": 6189,
+      "load": 39.96
+    },
+    {
+      "id": 247,
+      "location": "Alytus",
+      "uptime": 1759,
+      "load": 24.0
+    },
+    {
+      "id": 248,
+      "location": "Siauliai",
+      "uptime": 519,
+      "load": 11.34
+    },
+    {
+      "id": 249,
+      "location": "Siauliai",
+      "uptime": 7044,
+      "load": 40.37
+    },
+    {
+      "id": 250,
+      "location": "Klaipeda",
+      "uptime": 191,
+      "load": 18.38
+    },
+    {
+      "id": 251,
+      "location": "Alytus",
+      "uptime": 3130,
+      "load": 61.96
+    },
+    {
+      "id": 252,
+      "location": "Utena",
+      "uptime": 998,
+      "load": 22.03
+    },
+    {
+      "id": 253,
+      "location": "Klaipeda",
+      "uptime": 8680,
+      "load": 70.44
+    },
+    {
+      "id": 254,
+      "location": "Telsiai",
+      "uptime": 2929,
+      "load": 72.69
+    },
+    {
+      "id": 255,
+      "location": "Telsiai",
+      "uptime": 9486,
+      "load": 76.4
+    },
+    {
+      "id": 256,
+      "location": "Kedainiai",
+      "uptime": 3471,
+      "load": 31.9
+    },
+    {
+      "id": 257,
+      "location": "Alytus",
+      "uptime": 5535,
+      "load": 37.79
+    },
+    {
+      "id": 258,
+      "location": "Taurage",
+      "uptime": 7468,
+      "load": 14.32
+    },
+    {
+      "id": 259,
+      "location": "Visaginas",
+      "uptime": 2583,
+      "load": 43.43
+    },
+    {
+      "id": 260,
+      "location": "Ukmerge",
+      "uptime": 6955,
+      "load": 33.15
+    },
+    {
+      "id": 261,
+      "location": "Klaipeda",
+      "uptime": 762,
+      "load": 89.49
+    },
+    {
+      "id": 262,
+      "location": "Visaginas",
+      "uptime": 5925,
+      "load": 69.19
+    },
+    {
+      "id": 263,
+      "location": "Marijampole",
+      "uptime": 6521,
+      "load": 56.7
+    },
+    {
+      "id": 264,
+      "location": "Mazeikiai",
+      "uptime": 8137,
+      "load": 71.43
+    },
+    {
+      "id": 265,
+      "location": "Panevezys",
+      "uptime": 7746,
+      "load": 83.9
+    },
+    {
+      "id": 266,
+      "location": "Kaunas",
+      "uptime": 335,
+      "load": 53.12
+    },
+    {
+      "id": 267,
+      "location": "Mazeikiai",
+      "uptime": 7999,
+      "load": 84.91
+    },
+    {
+      "id": 268,
+      "location": "Marijampole",
+      "uptime": 947,
+      "load": 12.14
+    },
+    {
+      "id": 269,
+      "location": "Kaunas",
+      "uptime": 9558,
+      "load": 18.18
+    },
+    {
+      "id": 270,
+      "location": "Taurage",
+      "uptime": 3138,
+      "load": 18.63
+    },
+    {
+      "id": 271,
+      "location": "Taurage",
+      "uptime": 3465,
+      "load": 41.57
+    },
+    {
+      "id": 272,
+      "location": "Vilnius",
+      "uptime": 8343,
+      "load": 52.03
+    },
+    {
+      "id": 273,
+      "location": "Utena",
+      "uptime": 3048,
+      "load": 69.75
+    },
+    {
+      "id": 274,
+      "location": "Ukmerge",
+      "uptime": 9009,
+      "load": 11.02
+    },
+    {
+      "id": 275,
+      "location": "Marijampole",
+      "uptime": 8405,
+      "load": 76.94
+    },
+    {
+      "id": 276,
+      "location": "Vilnius",
+      "uptime": 861,
+      "load": 37.0
+    },
+    {
+      "id": 277,
+      "location": "Utena",
+      "uptime": 5284,
+      "load": 35.21
+    },
+    {
+      "id": 278,
+      "location": "Telsiai",
+      "uptime": 830,
+      "load": 42.4
+    },
+    {
+      "id": 279,
+      "location": "Telsiai",
+      "uptime": 8569,
+      "load": 37.52
+    },
+    {
+      "id": 280,
+      "location": "Jonava",
+      "uptime": 5833,
+      "load": 10.83
+    },
+    {
+      "id": 281,
+      "location": "Telsiai",
+      "uptime": 514,
+      "load": 46.82
+    },
+    {
+      "id": 282,
+      "location": "Utena",
+      "uptime": 4895,
+      "load": 87.68
+    },
+    {
+      "id": 283,
+      "location": "Kedainiai",
+      "uptime": 4572,
+      "load": 70.51
+    },
+    {
+      "id": 284,
+      "location": "Visaginas",
+      "uptime": 1972,
+      "load": 87.63
+    },
+    {
+      "id": 285,
+      "location": "Panevezys",
+      "uptime": 9941,
+      "load": 30.44
+    },
+    {
+      "id": 286,
+      "location": "Kedainiai",
+      "uptime": 807,
+      "load": 38.13
+    },
+    {
+      "id": 287,
+      "location": "Telsiai",
+      "uptime": 9807,
+      "load": 34.76
+    },
+    {
+      "id": 288,
+      "location": "Taurage",
+      "uptime": 8845,
+      "load": 79.71
+    },
+    {
+      "id": 289,
+      "location": "Kedainiai",
+      "uptime": 5651,
+      "load": 27.24
+    },
+    {
+      "id": 290,
+      "location": "Taurage",
+      "uptime": 6151,
+      "load": 82.65
+    },
+    {
+      "id": 291,
+      "location": "Visaginas",
+      "uptime": 1518,
+      "load": 70.67
+    },
+    {
+      "id": 292,
+      "location": "Kaunas",
+      "uptime": 4740,
+      "load": 38.62
+    },
+    {
+      "id": 293,
+      "location": "Siauliai",
+      "uptime": 7972,
+      "load": 70.67
+    },
+    {
+      "id": 294,
+      "location": "Visaginas",
+      "uptime": 7524,
+      "load": 61.72
+    },
+    {
+      "id": 295,
+      "location": "Siauliai",
+      "uptime": 5613,
+      "load": 27.8
+    },
+    {
+      "id": 296,
+      "location": "Marijampole",
+      "uptime": 6395,
+      "load": 38.36
+    },
+    {
+      "id": 297,
+      "location": "Siauliai",
+      "uptime": 7483,
+      "load": 61.35
+    },
+    {
+      "id": 298,
+      "location": "Telsiai",
+      "uptime": 9398,
+      "load": 75.02
+    },
+    {
+      "id": 299,
+      "location": "Jonava",
+      "uptime": 6766,
+      "load": 44.18
+    },
+    {
+      "id": 300,
+      "location": "Kaunas",
+      "uptime": 906,
+      "load": 11.11
+    }
+  ]
+}

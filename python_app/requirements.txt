@@ -1,0 +1,4 @@
+# Install with: pip install -r requirements.txt
+pyzmq>=25.0.0
+numpy>=1.24.0
+pyopencl>=2023.3.0
